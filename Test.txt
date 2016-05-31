@@ -3,3 +3,5 @@ name=vipul
 city=ahmedabad
 name=xyz
 sirname=abc
+state=gujarat
+country=india
