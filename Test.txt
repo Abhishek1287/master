@@ -1,7 +1,5 @@
 name=abhishek
 name=vipul
 city=ahmedabad
-name=xyz
-sirname=abc
-state=gujarat
+state=maharashtra
 country=india
