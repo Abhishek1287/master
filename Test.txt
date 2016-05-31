@@ -1,2 +1,4 @@
 name=abhishek
 name=vipul
+name=xyz
+sirname=abc
